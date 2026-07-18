@@ -1,0 +1,34 @@
+Melhores por categoria
+🧠 Melhor conhecimento geral
+
+🥇 gemma-2-2b-it
+
+💻 Melhor para programação
+
+🥇 granite4.1:3b
+
+🥈 qwen2.5-coder:3b
+
+🥉 gemma2:2b
+
+⚡ Mais rápido
+
+🥇 gemma:2b (embora tenha recusado responder no teste)
+
+🥈 qwen2.5:1.5b
+
+🥉 lfm2.5-thinking
+
+💾 Melhor para PCs modestos
+
+🥇 gemma-2-2b-it
+
+🥈 gemma3:1b
+
+🥉 qwen3:1.7b
+
+Modelos que decepcionaram
+gemma:2b (recusou responder)
+glm-ocr (não é um modelo conversacional)
+granite3.1-moe:1b
+qwen2.5:1.5b

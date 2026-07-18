@@ -1,0 +1,12 @@
+| Colocação | Modelo                        | Avaliação                                                                              |
+| --------: | ----------------------------- | -------------------------------------------------------------------------------------- |
+|        1º | **gemma-2-2b-it-GGUF Q4_K_M** | Melhor equilíbrio entre qualidade e velocidade. Excelente em código, lógica e escrita. |
+|        2º | **granite4.1:3b**             | Muito consistente, especialmente para tarefas técnicas e programação.                  |
+|        3º | **qwen2.5:3b**                | Ótimo desempenho geral, mas ainda apresenta algumas alucinações factuais.              |
+|        4º | **gemma2:2b**                 | Muito próximo do Top 3, boa escrita e excelente código.                                |
+|        5º | **qwen3:1.7b**                | Excelente considerando o tamanho do modelo.                                            |
+|        6º | **qwen3-vl:2b**               | Muito bom para tarefas multimodais, porém lento para uso geral.                        |
+|        7º | **qwen2.5-coder:3b**          | Excelente para programação, mas mais lento que os concorrentes.                        |
+|        8º | **gemma3:1b**                 | Impressiona pelo tamanho; ótima opção para máquinas mais simples.                      |
+|        9º | **lfm2.5-thinking:1.2b**      | Extremamente rápido, mas limitado em tarefas mais completas.                           |
+|       10º | **deepseek-r1:1.5b**          | Bom raciocínio lógico, porém ainda fraco em conhecimento geral.                        |
